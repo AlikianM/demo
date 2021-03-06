@@ -1,1 +1,2 @@
 *.log   # any file that ends with .log will be excluded from moving to .git repository
+*.orig   # any file that ends with .orig will be excluded from moving to .git repository
